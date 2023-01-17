@@ -1,0 +1,52 @@
+li {
+    text-decoration: none
+}
+
+header {
+    background-color: white;
+    top: 350px;
+    text-align: center;
+    margin: 10px;
+}
+
+.pasteldepizza {
+    padding-left: 40px;
+    margin-bottom: 150px;
+    margin-top: 40px;
+    height: 390px;
+    width: 600px;
+    box-shadow: 5px 5px 10px;
+
+
+ }
+ .parrafitos {
+    display: flex;
+    padding-left: 50px;
+    margin-bottom: 150px;
+ }
+.Parrafo1 {
+    margin-right: 25px;
+    font-family: 'Trebuchet MS';
+    color: black;
+}
+.Parrafo2 {
+    margin-right: 25px;
+    font-family: 'Trebuchet MS';
+    color: black;
+}
+
+.tartadepiña {
+    padding-left: 40px;
+    margin-bottom: 150px;
+    margin-top: 40px;
+    height: 390px;
+    width: 600px;
+    box-shadow: 5px 5px 10px;
+}
+footer {
+    background-color: white;
+    top: 350px;
+    text-align: center;
+    margin: 10px;
+}
+
